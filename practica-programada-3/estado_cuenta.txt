@@ -1,0 +1,20 @@
+========= ESTADO DE CUENTA =========
+
+ID: 1
+Descripción: Supermercado
+Monto: ₡25,000.00
+
+ID: 2
+Descripción: Gasolina
+Monto: ₡18,000.00
+
+ID: 3
+Descripción: Restaurante
+Monto: ₡12,500.00
+
+------------------------------------
+Total: ₡55,500.00
+Interés (2.6%): ₡1,443.00
+Total con interés: ₡56,943.00
+Cash Back (0.1%): ₡55.50
+Monto final: ₡56,887.50
